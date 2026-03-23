@@ -1,4 +1,4 @@
-##Computer Science and Information Technology
+Computer Science and Information Technology
 
 This repository documents applied technical learning through notes, structured troubleshooting models, selected readings, lab work, and practical concept development.
 
