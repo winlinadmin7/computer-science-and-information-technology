@@ -22,8 +22,8 @@ Selected Readings
 * PowerShell for Sysadmins: Workflow Automation Made Easy - Adam Bertram
 * The Practice of System and Network Administration - Thomas Limoncelli, Christina Hogan
   selected Chapters
-  Chapter 27: Customer Support
-  Chapter 29: Debugging
+- Chapter 27: Customer Support
+- Chapter 29: Debugging
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr
 * Windows Server Administration Fundamentals - Microsoft Press
 * The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
