@@ -1,4 +1,4 @@
-# Computer Science and Information Technology
+**Computer Science and Information Technology**
 
 Independent Technical Study
 
@@ -39,3 +39,7 @@ Selected Readings
 Purpose
 
 This repository reflects disciplined technical development through structured learning, applied labs, and written technical documentation.
+
+Navigation
+
+[`Back to GitHub Profile`](https://www.github.com/cbueker-it)
