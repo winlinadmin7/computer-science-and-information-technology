@@ -14,7 +14,7 @@ Focused Areas
 * Technical troubleshooting frameworks
 * Documentation and systems thinking
 
-Selected Readings
+**Selected Readings**
 
 Introduction to Information Technology and Beyond AI - Mark John Lado
 
