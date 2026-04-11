@@ -50,6 +50,9 @@ Windows Server Administration Fundamentals - Microsoft Press
 How Linux Works: What Every Superuser Should Know - Brian Ward
 
 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr
+- IT problems grow when work piles up faster than systems can handle it.
+- Stable IT comes from clear flow, fast feedback, and fewer repeated interruptions.
+- Good teams improve systems by fixing root causes, not only urgent symptoms.
 
 The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
 
