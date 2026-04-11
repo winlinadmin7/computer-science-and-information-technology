@@ -48,6 +48,10 @@ Windows Server Administration Fundamentals - Microsoft Press
 - Chapter 15: Server Maintenance
 
 How Linux Works: What Every Superuser Should Know - Brian Ward
+- Linux is built from many small tools that each do one job well.
+- Everything in Linux depends on processes, permissions, and files working together.
+- The boot process shows how the system builds itself step by step.
+- Networking in Linux is visible because most services can be inspected directly.
 
 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr
 - IT problems grow when work piles up faster than systems can handle it.
@@ -55,6 +59,9 @@ The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - G
 - Good teams improve systems by fixing root causes, not only urgent symptoms.
 
 The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
+- Great innovation happens when deep thinkers and practical builders work closely together.
+- Strong technical progress comes from patient experimentation, not only quick results.
+- The best systems are built when research, engineering, and business stay connected.
 
 Navigation
 
