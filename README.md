@@ -1,13 +1,13 @@
 **Computer Science and Information Technology**: Independent Technical Study
 
-I built this repository to organize my independent technical study; it includes:
+I built this repository to organize my independent technical study. It includes:
 - IT fundamentals
 - systems administration
 - applied troubleshooting
 - targeted labs
 - selected technical readings.
 
-My documented studies include my handwritten IT and CLI playbook, readings, flashcards, structured troubleshooting models, extensive lab work, and work for a few clients.
+My documented study includes handwritten IT and command-line notes, flashcards, structured troubleshooting models, lab work, and technical work connected to client systems.
 
 Focus areas include
 
@@ -62,12 +62,12 @@ How Linux Works: What Every Superuser Should Know - Brian Ward
 
 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr
 - IT problems grow when work piles up faster than systems can process and handle it.
-- Stable IT operations come from clear and established workflows, responsive and direct feedback, and fewer repeated interruptions.
+- Stable IT operations usually depend on clear workflows, direct feedback, and reducing repeated interruptions.
 - Good teams improve systems by identifying the root causes, not just urgent symptoms.
 
 The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
 - Great innovation happens when deep thinkers and practical builders work closely together.
-- Strong technical progress in the books came from patient experimentation; it did not just surface because of efforts looking to capitlize from only quick results.
+- Strong technical progress in the book came through patient experimentation. It did not emerge from chasing quick results alone.
 - The best systems are built when research, engineering, and business stay connected.
 
 Navigation
