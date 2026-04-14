@@ -1,8 +1,15 @@
 **Computer Science and Information Technology**: Independent Technical Study
 
-I built this repository to organize my independent technical study; it includes IT concepts, systems administration, troubleshooting, and applied technical reading. My documented studies include my handwritten IT and CLI playbook, readings, flashcards, structured troubleshooting models, extensive lab work, and work for a few clients.
+I built this repository to organize my independent technical study; it includes:
+- IT fundamentals
+- systems administration
+- applied troubleshooting
+- targeted labs
+- selected technical readings.
 
-Focused Areas
+My documented studies include my handwritten IT and CLI playbook, readings, flashcards, structured troubleshooting models, extensive lab work, and work for a few clients.
+
+Focus areas include
 
 * Operating systems
 * Windows 10/11 support and troubleshooting
